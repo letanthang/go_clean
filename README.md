@@ -1,7 +1,6 @@
 
 ## Getting Started
 Language: Go
-`
 This is a project template - implement clean architecture
 
 ### Prerequisites
